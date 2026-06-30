@@ -28,7 +28,7 @@ The system follows these principles:
 * Scalable background processing
 * Read-only analytics whenever possible
 
----
+----
 
 # Core Layers
 
